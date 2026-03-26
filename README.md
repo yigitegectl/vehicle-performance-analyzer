@@ -29,3 +29,23 @@ It then visualizes the results using a graph.
 
 # How to Run
 1. Install matplotlib if not installed:
+pip install matplotlib
+2. Run the script:
+python vehicle_performance_analyzer.py
+3. Enter values in this format:
+time,force
+Example:
+0,500
+1,1200
+2,2000
+3,2800
+4,3200
+5,3500
+6,3600
+
+Type "stop" when finished.
+
+# Purpose
+This project was built to combine programming with basic engineering principles, specifically vehicle dynamics and force analysis.
+
+It demonstrates practical use of Python in engineering problem-solving.
